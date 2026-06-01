@@ -1,0 +1,29 @@
+{
+  "_meta": {
+    "publishedAt": "2026-06-01T09:46:29.329Z",
+    "publishedBy": "FundBridge Admin Portal",
+    "fundId": "mg999",
+    "fundName": "MG 999 On-Chain Gold Fund",
+    "fundCode": "MG999",
+    "version": 3
+  },
+  "valDate": "18/05/2026",
+  "navPrice": 1.045544,
+  "aum": null,
+  "units": 126116195.120785,
+  "yield7": 3.573247052556261,
+  "yield30": 3.676632827894235,
+  "yieldDate": "17 May 2026",
+  "holdings": [],
+  "holdingsAsOf": "18/05/2026",
+  "navHistory": [
+    {
+      "date": "18/05/2026",
+      "navPrice": 1.045544,
+      "aum": null,
+      "units": 126116195.120785,
+      "yield7": 3.573247052556261,
+      "yield30": 3.676632827894235
+    }
+  ]
+}
