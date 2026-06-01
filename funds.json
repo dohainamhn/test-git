@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ultra",
+    "name": "Delta Wellington ULTRA",
+    "code": "ULTRA",
+    "type": "ultra",
+    "color": "#C9A84C",
+    "jsonKey": "ultra-fund-data",
+    "description": "Ultra Short Treasury On-Chain Fund"
+  },
+  {
+    "id": "mg999",
+    "name": "MG 999 On-Chain Gold Fund",
+    "code": "MG999",
+    "type": "mg999",
+    "color": "#B8860B",
+    "jsonKey": "mg999-fund-data",
+    "description": "Gold-linked private credit sub-fund"
+  }
+]
