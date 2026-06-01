@@ -1,0 +1,110 @@
+{
+  "_meta": {
+    "publishedAt": "2026-06-01T09:45:21.990Z",
+    "publishedBy": "FundBridge Admin Portal",
+    "fundId": "ultra",
+    "fundName": "Delta Wellington ULTRA",
+    "fundCode": "ULTRA",
+    "version": 3
+  },
+  "valDate": "18/05/2026",
+  "navPrice": 1.045544,
+  "aum": null,
+  "units": 126116195.120785,
+  "yield7": 3.573247052556261,
+  "yield30": 3.676632827894235,
+  "yieldDate": "17 May 2026",
+  "holdings": [
+    {
+      "cusip": "912797TL1",
+      "name": "US Treasury Bill",
+      "maturity": "04 May 2026",
+      "marketValue": 6996760.11,
+      "pctNav": 0.05325498,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797SP3",
+      "name": "US Treasury Bill",
+      "maturity": "06 May 2026",
+      "marketValue": 10053212.74,
+      "pctNav": 0.0765188,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797TR8",
+      "name": "US Treasury Bill",
+      "maturity": "11 May 2026",
+      "marketValue": 6812213.9,
+      "pctNav": 0.05185033,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797QN0",
+      "name": "US Treasury Bill",
+      "maturity": "13 May 2026",
+      "marketValue": 20292307.34,
+      "pctNav": 0.15445242,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797TS6",
+      "name": "US Treasury Bill",
+      "maturity": "18 May 2026",
+      "marketValue": 10371700.94,
+      "pctNav": 0.07894293,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797SV0",
+      "name": "US Treasury Bill",
+      "maturity": "20 May 2026",
+      "marketValue": 18532328.59,
+      "pctNav": 0.14105656,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797TT4",
+      "name": "US Treasury Bill",
+      "maturity": "25 May 2026",
+      "marketValue": 23665340.31,
+      "pctNav": 0.18012585,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797SW8",
+      "name": "US Treasury Bill",
+      "maturity": "27 May 2026",
+      "marketValue": 19286654.92,
+      "pctNav": 0.14679802,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797QX8",
+      "name": "US Treasury Bill",
+      "maturity": "10 Jun 2026",
+      "marketValue": 3585607.36,
+      "pctNav": 0.02729141,
+      "type": "T-Bill"
+    },
+    {
+      "cusip": "912797UA3",
+      "name": "US Treasury Bill",
+      "maturity": "15 Jun 2026",
+      "marketValue": 11549740.36,
+      "pctNav": 0.08790944,
+      "type": "T-Bill"
+    }
+  ],
+  "holdingsAsOf": "30/04/2026",
+  "navHistory": [
+    {
+      "date": "18/05/2026",
+      "navPrice": 1.045544,
+      "aum": null,
+      "units": 126116195.120785,
+      "yield7": 3.573247052556261,
+      "yield30": 3.676632827894235
+    }
+  ]
+}
