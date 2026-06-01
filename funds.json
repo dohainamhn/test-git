@@ -16,5 +16,14 @@
     "color": "#B8860B",
     "jsonKey": "mg999-fund-data",
     "description": "Gold-linked private credit sub-fund"
+  },
+  {
+    "id": "ultratest",
+    "name": "TestFund",
+    "code": "ULTRA-TEST",
+    "type": "ultra",
+    "color": "#9B2B2B",
+    "jsonKey": "ULTRA-test",
+    "description": "TestFund"
   }
 ]
