@@ -25,5 +25,14 @@
     "color": "#9B2B2B",
     "jsonKey": "ULTRA-test",
     "description": "TestFund"
+  },
+  {
+    "id": "ultra3",
+    "name": "TestFund3",
+    "code": "ULTRA-3",
+    "type": "generic",
+    "color": "#1A6B42",
+    "jsonKey": "ULTRA-test12",
+    "description": "TestFund3"
   }
 ]
